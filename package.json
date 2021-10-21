@@ -1,0 +1,15 @@
+{
+  "name": "iconsprite",
+  "version": "1.0.0",
+  "description": "Generates an SVG icon sprite from a set of SVG icons.",
+  "main": "index.js",
+  "author": "Samuel Dale <smhdale@live.com.au>",
+  "license": "MIT",
+  "bin": {
+    "iconsprite": "index.js"
+  },
+  "dependencies": {
+    "svgo": "^2.7.0",
+    "yargs": "^17.2.1"
+  }
+}
